@@ -1,0 +1,70 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    background-color: rgb(32, 70, 71);
+}
+.head1{
+    font-size: xx-large;
+    font-weight: 9000;
+    margin-left: 30px;
+    margin-top: 15px;
+    color: white;
+}
+.div1{
+    display: flex;
+    border: 2px solid black;
+    margin-bottom: 10px;
+}
+.tag{
+    margin-top: 20px;
+    /*argin-left: 60px;*/
+    animation: 0.4s;
+    justify-content: space-between;
+}
+.com{
+    margin-left: 100px;
+    font-size: x-large;
+    color: white;
+    cursor: pointer;
+}
+.feat{
+    margin-left: 100px;
+    font-size: x-large;
+    color: white;
+    cursor: pointer;
+}
+.res{
+    margin-left: 100px;
+    font-size: x-large;
+    color: white;
+    cursor: pointer;
+}
+.doc{
+    margin-left: 100px;
+    font-size: x-large;
+    color: white;
+    cursor: pointer;
+}
+.btn{
+    margin-left: 150px;
+    border-radius: 35px;
+    background-color: rgb(5, 155, 105);
+    padding: 15px;
+    color: white;
+}
+.head2{
+    text-align: center;
+    color: white;
+}
+.para{
+    font-size: x-large;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+    margin-top: 20px;
+}
+.btn:hover{
+    background-color: rgb(58, 117, 117);
+    transition: 0.3s ease;
+    cursor: pointer;
+}
